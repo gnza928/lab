@@ -1,0 +1,14 @@
+<state>
+  <timestamp value='1588970387400' />
+  <sourceSet name='default'>
+    <source name='C:\Users\gnza9\IdeaProjects\lab\slice\domain.ice'>
+      <file name='C:\Users\gnza9\IdeaProjects\lab\server\build\generated-src\cl\ucn\disc\pdis\lab\zeroice\model\_Marker.java' />
+      <file name='C:\Users\gnza9\IdeaProjects\lab\server\build\generated-src\cl\ucn\disc\pdis\lab\zeroice\model\Engine.java' />
+      <file name='C:\Users\gnza9\IdeaProjects\lab\server\build\generated-src\cl\ucn\disc\pdis\lab\zeroice\model\EnginePrx.java' />
+      <file name='C:\Users\gnza9\IdeaProjects\lab\server\build\generated-src\cl\ucn\disc\pdis\lab\zeroice\model\_EnginePrxI.java' />
+    </source>
+    <arg value='c:\ZeroC\Ice-3.7.3\\bin\slice2java.exe' />
+    <arg value='-Ic:\ZeroC\Ice-3.7.3\\slice' />
+    <arg value='--debug' />
+  </sourceSet>
+</state>
